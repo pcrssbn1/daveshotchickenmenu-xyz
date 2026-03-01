@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://daveshotchickenmenu.xyz/sitemap.xml
